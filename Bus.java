@@ -1,5 +1,4 @@
 package BusRev;
-
 public class Bus {
 	private int busNo;
 	private boolean ac;
